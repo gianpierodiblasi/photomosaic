@@ -1,4 +1,4 @@
-# mosaic
+# photomosaic
 
 Algorithms and UIs to create photomosaics.
 
